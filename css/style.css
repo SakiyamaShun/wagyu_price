@@ -85,3 +85,11 @@ footer {
 .card {
   border-radius: 0;
 }
+
+.hover_login {
+
+}
+
+.hover_login:hover {
+background-color: #333;
+}
